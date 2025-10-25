@@ -64,6 +64,8 @@
             </ul>
           </div>
         </div>
+
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fuga sit beatae sequi dolores animi eveniet atque laudantium exercitationem at magnam libero non eum aut sed, explicabo laboriosam placeat facilis architecto!</p>
       </main>
 
       <!-- Footer -->
