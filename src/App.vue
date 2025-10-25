@@ -68,7 +68,9 @@
 
       <!-- Footer -->
       <footer class="p-4 text-center text-sm text-slate-500 border-t border-slate-200 bg-white">
-        © 2025 Sonnara Dashboard. All rights reserved.
+        © 2025 Sonnara
+        
+        Dashboard. All rights reserved.
       </footer>
     </div>
   </div>
